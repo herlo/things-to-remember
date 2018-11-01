@@ -1,7 +1,7 @@
-Tech Links
-==========
+Tech
+====
 
-Links to interesting tools, articles, etc.
+Interesting technical tools, articles, etc.
 
 Tools
 -----
